@@ -1,6 +1,6 @@
 package com.company;
 import java.util.Scanner;
-
+//Program sprawdzający, czy dane słowo jest palindromem
 public class Main {
 
     public static void main(String[] args) {
