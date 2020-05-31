@@ -4,6 +4,8 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.Scanner;
 import java.io.File;
+/* Zadanie na utworzenie funkcji liczZnakiSlowa, która zlicza:  liczbę znaków w pliku, liczbę białych znaków w pliku 
+   oraz liczbę słów w pliku.  */
 
 public class Main {
 
