@@ -1,6 +1,6 @@
 package com.company;
-
 import java.util.Scanner;
+//Program dla wczytanego słowa liczy, ile razy występuje w nim ostatnia litera tego słowa
 
 public class Main {
     public static void main(String[] args) {
