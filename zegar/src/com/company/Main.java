@@ -1,5 +1,8 @@
 package com.company;
 import java.util.Scanner;
+
+// Program z 4 podanych cyfr ustanawia największą (najpóźniejszą) godzinę. 
+
 public class Main {
     public static void main(String[] args) {
 
