@@ -1,6 +1,6 @@
 package com.company;
 import java.util.Scanner;
-
+//Zadanie polegające na przećwiczeniu konstruktorów i bloków statycznych
 public class Main {
 
     public static class Rownanie {
