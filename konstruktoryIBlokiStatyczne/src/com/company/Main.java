@@ -1,6 +1,8 @@
 package com.company;
 import java.util.Scanner;
-//Zadanie polegające na przećwiczeniu konstruktorów i bloków statycznych
+/* Zadanie polegające na przećwiczeniu konstruktorów i bloków statycznych.
+Program po podaniu współczynników a,b,c funkcji kwadratowej oblicza jej miejsca zerowe oraz podaje wierzchołek.
+Wylicza także jej wartość dla argumentów podanych w blokach statycznych (tj. dla x=100 i x2=-100)   */
 public class Main {
 
     public static class Rownanie {
