@@ -7,6 +7,13 @@ import java.util.Scanner;
 import java.io.File;
 import java.util.StringTokenizer;
 
+/* Napisać funkcję public static void szukaj(String nazwaPlikWe, String nazwaPlikWy, String słowo) 
+której zadaniem jest znalezienie wszystkich wierszy w pliku, które zawierają szukane słowo. 
+Wszystkie wiersze, które zawierają słowo powinny zostać zapisane w pliku wynikowym wraz z nr wiersza (z pierwszego pliku). 
+Nazwa pierwszego pliku zapamiętana jest w parametrze nazwaPlikWe, nazwa pliku wynikowego podana jest w parametrze nazwaPlikWy, 
+natomiast szukane słowo w parametrze słowo.
+*/
+
 public class Main {
     public static void szukaj(String nazwaPliku, String nazwaPlikWy, String slowo) throws IOException {
 
