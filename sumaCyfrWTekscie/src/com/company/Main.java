@@ -1,5 +1,6 @@
 package com.company;
 import java.util.Scanner;
+//Program sumujący wszystkie cyfry w danym tekście
 
 public class Main {
     public static void main(String[] args) {
